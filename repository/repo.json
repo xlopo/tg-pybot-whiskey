@@ -2,7 +2,7 @@
     "name": "Whiskey",
     "description": "Pass the whiskey.",
     "version": "1.0",
-    "homepage": "https://github.com/xlopo/tg-pybot-whiskey"
-    "repo": "https://github.com/xlopo/tg-pybot-whiskey.git"
+    "homepage": "https://github.com/xlopo/tg-pybot-whiskey",
+    "repo": "https://github.com/xlopo/tg-pybot-whiskey.git",
     "branch": "master"
 }
