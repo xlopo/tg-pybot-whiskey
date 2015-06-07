@@ -5,9 +5,9 @@ class WhiskeyPlugin(TelexPlugin):
     Pass the whiskey.
     """
 
-    patterns = [
-        "^!whiskey(.*)"
-    ]
+    patterns = {
+        "^!whiskey": 'run'
+    }
 
     usage = [
         "!whiskey"
