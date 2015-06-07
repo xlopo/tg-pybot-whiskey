@@ -1,6 +1,6 @@
-import plugintypes
+from telex.plugins import TelexPlugin
 
-class WhiskeyPlugin(plugintypes.TelegramPlugin):
+class WhiskeyPlugin(TelexPlugin):
     """
     Pass the whiskey.
     """
