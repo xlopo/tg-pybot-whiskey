@@ -1,4 +1,4 @@
-from telex.plugins import TelexPlugin
+from telex.plugin import TelexPlugin
 
 class WhiskeyPlugin(TelexPlugin):
     """
